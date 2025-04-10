@@ -36,7 +36,7 @@ Run the Streamlit application:
 ```
 streamlit run Python_application.py
 ```
-Replace app.py with the filename if it's different.
+
 
 Your default web browser will open the app at:
 ```
