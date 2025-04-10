@@ -25,17 +25,23 @@ pip install streamlit pandas
 ````
 
 Running the App
+
 Clone this repository (or save the script in a .py file):
+```
 git clone https://github.com/yourusername/budget-buddy.git
 cd budget-buddy
+```
 
 Run the Streamlit application:
+```
 streamlit run app.py
-
+```
 Replace app.py with the filename if it's different.
 
 Your default web browser will open the app at:
+```
 http://localhost:8501
+```
 
 How to Use
 Add Expenses
