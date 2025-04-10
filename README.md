@@ -60,9 +60,10 @@ Review all your transactions for the current month in a sortable table.
 
 Project Structure
 
-budget-buddy/
+```budget-buddy/
 ├── app.py               # Main Streamlit application
 ├── README.md            # This file
+```
 
 Notes
 Data is stored temporarily using Streamlit session state (not saved after the app closes).
