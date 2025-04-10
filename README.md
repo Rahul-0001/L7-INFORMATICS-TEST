@@ -28,13 +28,13 @@ Running the App
 
 Clone this repository (or save the script in a .py file):
 ```
-git clone https://github.com/yourusername/budget-buddy.git
-cd budget-buddy
+https://github.com/Rahul-0001/L7-INFORMATICS-TEST.git
+cd L7-INFORMATICS-TEST
 ```
 
 Run the Streamlit application:
 ```
-streamlit run app.py
+streamlit run Python_application.py
 ```
 Replace app.py with the filename if it's different.
 
@@ -67,7 +67,7 @@ Review all your transactions for the current month in a sortable table.
 Project Structure
 
 ```budget-buddy/
-├── app.py               # Main Streamlit application
+├── Python_application.py               # Main Streamlit application
 ├── README.md            # This file
 ```
 
